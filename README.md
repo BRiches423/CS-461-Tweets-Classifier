@@ -31,6 +31,7 @@ preprocessed_dataset.zip a folder containing:
   mentions.npy -> the numpy array of the processed dataset determining if there was a mention in the text
   
   
+  **THIS IS THE FILE CONTAINING THE RESULTS OF A TYPICAL RUN**
   PredVActualPD.npy -> the dataframe of the predictions compared to the ground truth
   
   
