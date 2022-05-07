@@ -43,4 +43,5 @@ preprocessed_dataset.zip a folder containing:
   text_names.npy -> the word lookup map for the text body dataset
  
  **NOTE: I SAVED THE MODEL BUT IT IS TOO LARGE TO UPLOAD IF YOU WOULD LIKE IT PLEASE LET ME KNOW AND I CAN FIND A WAY TO GET IT TO YOU**
+ **NOTE: I HAVE THE PREPROCESSING CODE BUT IT IS JUMBLED, IF YOU WOULD LIKE IT LET ME KNOW AND I CAN CLEAN IT UP BEFORE SENDING IT**
 
