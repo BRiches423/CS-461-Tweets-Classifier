@@ -13,7 +13,11 @@ Report.docx: the reort of the findings of the project
 
 **Word Classifier Bryan Already Preprocessed.ipynb: The code used for my final model it is a Jupyter Notebook File, you can view it using jupyter notebook or open it with Google Colab. If you can't view it please let me know. **
 
-text_tokenized.zip: a npy containing:
+text_tokenized.zip: a npy containing the processed text body dataset
+
+
+preprocessed_dataset.zip a folder containing:
+
 
   Hashtag_Names.npy -> the word lookup map for the hashtag dataset
   
@@ -40,4 +44,3 @@ text_tokenized.zip: a npy containing:
  
  
 
-preprocessed_dataset.zip a folder containing all of the other processed dataset fields not mentioned outside of the file: including the targets. 
